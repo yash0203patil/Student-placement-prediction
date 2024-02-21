@@ -64,5 +64,5 @@ streamlit run app.py
 ## Author
 -Yash Patil
 
-##License
--This project is licensed under the MIT License.
+## License
+### This project is licensed under the MIT License.
