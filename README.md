@@ -62,7 +62,7 @@ streamlit run app.py
 -The predictive model used in this app is stored in the placement_prediction_model.joblib file.
 
 ## Author
--Yash Patil
+### Yash Patil
 
 ## License
 ### This project is licensed under the MIT License.
