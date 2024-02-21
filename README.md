@@ -54,14 +54,14 @@ streamlit run app.py
  -Internships: Enter the number of internships completed by the student.
  -CGPA: Enter the CGPA (Cumulative Grade Point Average) of the student.
 
-##Output
+## Output
 -If the model predicts that the student is likely to be placed, a success message will be displayed.
 -If the model predicts that the student is not likely to be placed, an error message will be displayed.
 
-##Model
+## Model
 -The predictive model used in this app is stored in the placement_prediction_model.joblib file.
 
-##Author
+## Author
 -Yash Patil
 
 ##License
