@@ -1,0 +1,4 @@
+1.Open anaconda prompt
+2.Go to project directory (cd <folder path>)
+3.Activate virtual enviroment (conda activate student)
+4.Run the app (streamlit run app.py)
